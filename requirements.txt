@@ -5,6 +5,8 @@ pandas
 plotly
 requests
 streamlit
+streamlit-folium
+folium
 whois
 networkx
 numpy
